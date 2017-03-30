@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"serv",
+				"_registerServiceWorker"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"handle",
+				"handleInputChange"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"y",
+				"yLived"
+			],
+			[
+				"sor",
+				"sortedDob"
+			],
+			[
+				"my",
+				"myButton"
+			],
+			[
+				"hou",
+				"hour-hand"
+			],
+			[
+				"minute",
+				"minuteDegrees"
+			],
+			[
+				"minu",
+				"minuteHand"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"min",
+				"min-hand"
+			],
+			[
+				"sec",
+				"secondsDegrees"
+			],
+			[
+				"second",
+				"second-hand"
+			],
+			[
+				"tra",
+				"transition-timing-function"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gr",
+				"gridTable"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cl",
+				"clickedArray"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"para",
+				"paracomponent"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"playing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/a/Desktop/portfolio/index.html",
+		"/Users/a/Desktop/responsive/index.html",
+		"/Users/a/Desktop/responsive/css.css",
+		"/Users/a/Desktop/JadenCase",
+		"/Users/a/Desktop/functionreverse.js",
+		"/Users/a/Desktop/finished squareDigits codewars.js",
+		"/Users/a/Desktop/maxdifflength.js",
+		"/Users/a/Desktop/detective jenny.js",
+		"/Users/a/Desktop/sumAllarraycodecamp.js",
+		"/Users/a/Desktop/codewars-working-weather-api.js",
+		"/Users/a/Desktop/codewars iqTest",
+		"/Users/a/Desktop/function squareDigits codewars.js",
+		"/Users/a/Desktop/Ex_Files_JS_for_WD.zip",
+		"/Users/a/Desktop/04 - Array Cardio Day 1.mp4",
+		"/Users/a/Desktop/torrent.txt",
+		"/Users/a/udacitygulp/ud892-master/Lesson 2/pluck.js",
+		"/Users/a/Desktop/validatePIN.js",
+		"/Users/a/Desktop/minmaxarray.js",
+		"/Users/a/Desktop/sum numbers kata.js",
+		"/Users/a/Desktop/ROT13cypher.js",
+		"/Users/a/udacitygulp/ud892-master/Lesson 2/sass/main.scss",
+		"/Users/a/udacitygulp/ud892-master/Lesson 2/gulpfile.js",
+		"/Users/a/udacitygulp/ud892-master/Lesson 2/css/main.css",
+		"/Users/a/Desktop/freecodecampdestroyer",
+		"/Users/a/Desktop/moveZeros.js",
+		"/Users/a/Desktop/move Zeros left.js",
+		"/Users/a/Desktop/removeexc.js",
+		"/Users/a/udacitygulp/index.html",
+		"/Users/a/udacitygulp/gulpfile.js",
+		"/Users/a/udacitygulp/k.html",
+		"/Users/a/udacitygulp/test.html",
+		"/Users/a/offlineFirst/wittr/node_modules/node-sass/src/libsass/src/cssize.cpp",
+		"/Users/a/offlineFirst/wittr/public/js/main/IndexController.js",
+		"/Users/a/offlineFirst/wittr/public/js/sw/index.js",
+		"/Users/a/04 - Array Cardio Day 1/index-START.html",
+		"/Users/a/Downloads/JavaScript30-master 2/07 - Array Cardio Day 2/index-START.html",
+		"/Users/a/Desktop/choropleth/index.html",
+		"/Users/a/Desktop/choropleth/subunits.json",
+		"/Users/a/Desktop/choropleth/uk.json",
+		"/Users/a/Desktop/uk json /d3js-map-tutorial-master/index.html",
+		"/Users/a/Downloads/JavaScript30-master (1).zip",
+		"/Users/a/todo_react/src/App.js",
+		"/Users/a/todo_react/src/App.css",
+		"/Users/a/todo_react/src/component/todo/TodoForm.js",
+		"/Users/a/Downloads/JavaScript30-master 2/04 - Array Cardio Day 1/index-START.html",
+		"/Users/a/index.html",
+		"/Users/a/jsclock/index.html",
+		"/Users/a/Downloads/Data/GB/index.html",
+		"/Users/a/jsclock/script.js",
+		"/Users/a/d3uk/unemployment.tsv",
+		"/Users/a/d3uk/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js/Exercise Files/06_01/finished/D3/script.js",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js/Exercise Files/06_03/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js/Exercise Files/06_05/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_06/finished/D3/style.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_06/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_06/finished/D3/script.js",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_03/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_03/finished/D3/script.js",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/03_04/finished/D3/script.js",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/04_03/finished/D3/style.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/03_04/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/02_04/finished/D3/style.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/02_04/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/02_04/finished/D3/script.js",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/01_03/finished/D3/index.html",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/01_03/finished/D3/style.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/01_03/finished/D3/base.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/01_03/finished/D3/_/base.css",
+		"/Volumes/PASSPORT/samsung tab files/Android/data/com.utorrent.client/files/Download/LYNDA Data Visualization With D3 JS TUTORIAL-kEISO/Exercice Files/Ex_Files_DVwD3js 2/Exercise Files/01_02/finished/D3/index.html",
+		"/Users/a/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/a/memoryMatch/style.css",
+		"/Users/a/memoryMatch/memoryMatch.js",
+		"/Users/a/reactudemy/index.js",
+		"/Users/a/reactudemy/public/index.html",
+		"/Users/a/reactudemy/public/app.jsx",
+		"/Users/a/memoryMatch/memoryMatch.html",
+		"/Users/a/reactudemy/node_modules/server.js",
+		"/Users/a/reactudemy/index.html",
+		"/Users/a/risingstack/gitignore",
+		"/Users/a/risingstack/package.json",
+		"/Users/a/risingstack/index.js",
+		"/Users/a/risingstack/app/calc.js",
+		"/Users/a/risingstack/app/index.js",
+		"/Users/a/app/calc.js",
+		"/Users/a/app/index.js",
+		"/Users/a/index.js",
+		"/Users/a/Desktop/ajax1/script.js",
+		"/Users/a/Desktop/jspatterns/main.js",
+		"/Users/a/Desktop/jspatterns/index.html",
+		"/Users/a/Desktop/jspatterns/js/factory/images.js",
+		"/Users/a/Desktop/jspatterns/js/factory/mediaFactory.js",
+		"/Users/a/Desktop/jspatterns/js/factory/init.js",
+		"/Users/a/Downloads/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html",
+		"/Users/a/Desktop/nodetest/npjcode/app/calc.js",
+		"/Users/a/Desktop/nodetest/npjcode/app/index.js",
+		"/Users/a/Desktop/stephengridercorseexamples/promise fetch 3",
+		"/Users/a/udemye6/functions/functions.js",
+		"/Users/a/Desktop/stephengridercorseexamples/symboliteratorchildrenlast",
+		"/Users/a/Desktop/stephengridercorseexamples/iteratorsymbolgenerator",
+		"/Users/a/Desktop/stephengridercorseexamples/generatorforofloop2",
+		"/Users/a/Desktop/nodetest/npjcode/app/generatorforofloopexample",
+		"/Users/a/Desktop/stephengridercorseexamples/stephengrider class Car ",
+		"/Users/a/Desktop/stephengridercorseexamples/for or loop example",
+		"/Users/a/Desktop/stephengridercorseexamples/generatorshoppingexample",
+		"/Users/a/Desktop/nodetest/readlineapp/package.json",
+		"/Users/a/Desktop/nodetest/readlineapp/index.js",
+		"/Users/a/Desktop/nodetest/npjcode/data.txt",
+		"/Users/a/Desktop/nodetest/npjcode/package.json",
+		"/Users/a/Desktop/nodetest/npjcode/index.js",
+		"/Users/a/Desktop/nodetest/npjcode/npjindex.js",
+		"/Users/a/Desktop/nodetest/kylecode/mastering-callbacks/bears.txt",
+		"/Users/a/Desktop/nodetest/kylecode/mastering-callbacks/bears.dictionary",
+		"/Users/a/Desktop/nodetest/kylecode/mastering-callbacks/index.js",
+		"/Users/a/Desktop/nodetest/kylecode/mastering-callbacks/package.json",
+		"/Users/a/Desktop/nodetest/kylecode/package.json",
+		"/Users/a/Desktop/nodetest/kyleproject/package.json",
+		"/Users/a/Desktop/nodetest/kyleproject/index.js",
+		"/Users/a/Desktop/nodetest/fileReader.js",
+		"/Users/a/Desktop/nodetest/myfile.txt",
+		"/Users/a/Desktop/nodetest/connect.js",
+		"/Users/a/Desktop/nodetest/world.js",
+		"/Users/a/Desktop/nodetest/block.js",
+		"/Users/a/Desktop/nodetest/counter.js",
+		"/Users/a/Desktop/node1.js",
+		"/Users/a/Documents/nvm.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"Statement",
+			"done"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"node_modules/node-sass/src/libsass/src/cssize.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
