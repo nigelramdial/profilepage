@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Nigel Ramdial One Page Website</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <!-- <div class=".one.column" style="margin-top: 5%">
+        <h1>Nigel Ramdial's One Page Website</h1>
+    </div>
+    <div class="row">
+     <p>I hope you consider my application, I filled out the Expression of Interest form but didn't recieve an invitation to CodingForEveryone on Gitter.   <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p> 
+    </div>-->
+
+    <section class="header">
+      <h1 class="title" style="margin-top: 5%; text-align: center">Nigel Ramdial's One Page Website</h1>
+      <div class="row">
+     <p>I hope you consider my application, I filled out the Expression of Interest form but didn't recieve an invitation to CodingForEveryone on Gitter.   </p> 
+    </div>
+
+    <!-- img 130x70 -->
+      <div class="value-props row">
+        <div class="four columns value-prop">
+          <img class="value-img"  style ="width: 220px; height: 120px;" src="images/home1.jpg" id="image1">
+          <p id="imageText1" >My Village / My Reality</p>
+        </div>
+        <div class="four columns value-prop">
+          <img class="value-img" style ="width: 220px; height: 120px;" src="images/computer1.jpg" id="image2">
+          <p id="imageText2" >My workspace / An hour later on CodeWars</p>
+        </div>
+        <div class="four columns value-prop">
+          <img class="value-img" style ="width: 220px; height: 120px;" src="images/dog1.jpg" id="image3">
+          <p id="imageText3" >Lassie / My dog Jojo</p>
+        </div>
+      </div>
+    </section>
+    <section class="header">
+      <h2 class="title" style="margin-top: 5%; text-align: center">My Latest Projects</h2>
+      <div class="row">
+     <p>These are websites I've worked on, click on the images to see how I contributed</p> 
+    </div>
+
+    <!-- img 130x70 -->
+      <div class="value-props row">
+        <div class="four columns value-prop">
+          <img class="value-img"  style ="width: 220px; height: 120px;" src="images/work1.jpg" id="work1">
+          <p>AirBNB</p>
+        </div>
+        <div class="four columns value-prop">
+          <img class="value-img" style ="width: 220px; height: 120px;" src="images/work2.jpg" id="work2">
+          <p>Amazon</p>
+        </div>
+        <div class="four columns value-prop">
+          <img class="value-img" style ="width: 220px; height: 120px;" src="images/match1.jpg" id="work3">
+          <p id="imageText3" >Match</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- my Acceptance form -->
+<section class="header">
+  <h2 class="title" style="margin-top: 5%; text-align: center">My Acceptance Form</h2>
+  <div class="row">
+     <p>Obviously having looked at this awful website, you want to teach me how to code properly, so I've kindly supplied you with a form to send me my acceptance email</p> 
+    </div>
+<form>
+  <div class="row">
+    <div class="six columns">
+      <label for="exampleEmailInput">Your email</label>
+      <input class="u-full-width" type="email" placeholder="test@mailbox.com" id="exampleEmailInput">
+    </div>
+    <div class="six columns">
+      <label for="exampleRecipientInput">Reason for accepting application</label>
+      <select class="u-full-width" id="exampleRecipientInput">
+        <option value="Option 1">My dog</option>
+        <option value="Option 2">My amateurish coding</option>
+        <option value="Option 3">Boredom</option>
+      </select>
+    </div>
+  </div>
+  <label for="exampleMessage">Message</label>
+  <textarea class="u-full-width" placeholder="Hi Nigel …" id="exampleMessage"></textarea>
+  <label class="example-send-yourself-copy">
+    <input type="checkbox">
+    <span class="label-body">Send a copy to yourself</span>
+  </label>
+  <input class="button-primary" type="submit" value="Submit">
+</form>
+</section>
+<!-- Always wrap checkbox and radio inputs in a label and use a <span class="label-body"> inside of it -->
+
+<!-- Note: The class .u-full-width is just a utility class shorthand for width: 100% -->
+
+  </div>
+<script type="text/javascript">
+
+//my life and reality Image rollover script get the element by Id 
+
+var image1 = document.getElementById("image1"); 
+ 
+
+var image2 = document.getElementById("image2");
+
+
+var image3 = document.getElementById("image3"); 
+
+// listen for mouseover of image 1
+
+image1.addEventListener("mouseover", function( event ) {   
+    // change the image on rollover
+  newImg1();
+    // reset the image after a short delay of 1 second
+  setTimeout(function() {
+    event.target.src = "images/home1.jpg";
+  }, 1000);
+}, false);
+
+// define function for changing the image source 
+function newImg1() {
+  image1.src="images/home2.jpg";
+}
+
+
+// listen for mouseover of image 2
+
+image2.addEventListener("mouseover", function( event ) {   
+    // change the image on rollover
+  newImg2();
+
+    // reset the image after a short delay of 1 second
+  setTimeout(function() {
+    event.target.src = "images/computer1.jpg";
+
+  }, 1000);
+}, false);
+
+// define function for changing the image source
+function newImg2() {
+  image2.src="images/computer2.jpg";
+}
+
+// listen for mouseover of image 3
+
+image3.addEventListener("mouseover", function( event ) {   
+    // change the image on rollover
+  newImg3();
+
+    // reset the image after a short delay of 1 second
+  setTimeout(function() {
+    event.target.src = "images/dog1.jpg";
+  }, 1000);
+}, false);
+
+// define function for changing the image source
+function newImg3() {
+  image3.src="images/dog2.jpg";
+}
+
+//my projects Image rollover script get the element by Id 
+
+var work1 = document.getElementById("work1"); 
+ 
+
+var work2 = document.getElementById("work2");
+
+
+var work3 = document.getElementById("work3"); 
+
+// listen for mouseover of image 1
+
+work1.addEventListener("click", function( event ) {   
+    // change the image on rollover
+  newWorkImg1();
+    // reset the image after a short delay of 1 second
+  setTimeout(function() {
+    event.target.src = "images/work1.jpg";
+  }, 1000);
+}, false);
+
+// define function for changing the image source 
+function newWorkImg1() {
+  work1.src="images/holiday1.jpg";
+}
+
+// listen for mouseover of image 1
+
+work2.addEventListener("click", function( event ) {   
+    // change the image on rollover
+  newWorkImg2();
+    // reset the image after a short delay of 1 second
+  setTimeout(function() {
+    event.target.src = "images/work2.jpg";
+  }, 1000);
+}, false);
+
+// define function for changing the image source 
+function newWorkImg2() {
+  work2.src="images/vinyl.jpg";
+}
+</script>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
